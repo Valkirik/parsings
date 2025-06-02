@@ -1,0 +1,3 @@
+данная программа вытаскивает название, цену и описания каждого товара на каждой страничке
+
+the programm just takes the name , the price and the descriptiond of the good on each page

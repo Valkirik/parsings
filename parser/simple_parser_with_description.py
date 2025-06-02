@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from time import sleep
 
-for count in range(1, 7):
+"""for count in range(1, 7):
 
     url = f"https://scrapingclub.com/exercise/list_basic/?page={count}"
     response = requests.get(url) #запрос на сайт для получения html страницы
@@ -28,4 +28,4 @@ for count in range(1, 7):
             #дальше все просто вывоим в консоль
             print(name_price)
             print(f"image: {url_img}")
-            print(description)
+            print(description)"""

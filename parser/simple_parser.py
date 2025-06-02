@@ -1,6 +1,6 @@
-import requests
+"""import requests
 from bs4 import BeautifulSoup
-from time import sleep
+
 
 
 for count in range(1, 7):
@@ -29,7 +29,7 @@ for count in range(1, 7):
 
             print(name_price)
             print(f"image: {url_img}")
-            print(description)
+            print(description)"""
 
 
 
